@@ -6,27 +6,27 @@
         android:id="@+id/b1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="사과Table(비어있음)"
+        android:text="사과table(비어있음)"
         android:onClick="onmyclick"/>
 
     <Button
         android:id="@+id/b2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="포도Table(비어있음)"
+        android:text="포도table(비어있음)"
         android:onClick="onmyclick"/>
 
     <Button
         android:id="@+id/b3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="키위Table(비어있음)"
+        android:text="키위table(비어있음)"
         android:onClick="onmyclick"/>
 
     <Button
         android:id="@+id/b4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="자몽Table(비어있음)"
+        android:text="자몽table(비어있음)"
         android:onClick="onmyclick"/>
 </LinearLayout>
